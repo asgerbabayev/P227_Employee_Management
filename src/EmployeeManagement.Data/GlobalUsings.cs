@@ -1,0 +1,1 @@
+﻿global using EmployeeManagement.Data.Base;
